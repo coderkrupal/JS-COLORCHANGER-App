@@ -1,0 +1,61 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+     background-color:lightgoldenrodyellow;
+span {
+    display: inline-block;
+    padding-top: 50px; 
+    padding-left: 50px;
+    /* Allows width and height to take effect */
+}
+ 
+ .color_changer{
+     margin-left: 200px;
+     margin-top: 130px;
+    }
+
+ #grey{
+     width: 150px;
+     height: 150px;
+     background-color: grey;
+     font-size: 20px;
+     text-transform: capitalize;
+     z-index: 1;
+     border: 1px solid rgb(213, 187, 187);
+ }
+
+ #black{
+    width: 200px;
+    height: 150px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    text-transform: capitalize
+}
+#blue{
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    font-size: 20px;
+    text-transform: capitalize
+}
+#purple {
+    width: 150px;
+    height: 150px;
+    background-color: purple;
+    font-size: 20px;
+    text-transform: capitalize
+}
+
+#green {
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    font-size: 20px;
+    text-transform: capitalize
+}
+ 
